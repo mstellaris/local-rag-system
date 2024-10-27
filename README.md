@@ -21,4 +21,4 @@ For a detailed walkthrough of the setup and code, check out our blog:
 
 ---
 
-Enjoy your journey in building a private, AI-driven document management system! If you find this project useful, consider sharing it with others in the community.
+Enjoy your journey in building a private, AI-driven document management system! If you find this project useful, consider sharing it with others in the community!
