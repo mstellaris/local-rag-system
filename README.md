@@ -19,7 +19,9 @@ Welcome to the **Local LLM-based Retrieval-Augmented Generation (RAG) System**! 
 For a detailed walkthrough of the setup and code, check out our blog:
 
 [**Build a Local LLM-based RAG System for Your Personal Documents - Part 1**](https://jamwithai.substack.com/p/build-a-local-llm-based-rag-system)
+
 [**Build a Local LLM-based RAG System for Your Personal Documents - Part 2: The Guide**](https://jamwithai.substack.com/p/build-a-local-llm-based-rag-system-628)
+
 ---
 
 Enjoy your journey in building a private, AI-driven document management system! If you find this project useful, consider sharing it with others in the community!
