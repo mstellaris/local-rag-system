@@ -63,7 +63,7 @@ st.sidebar.markdown(
 st.sidebar.markdown(
     """
     <div class="footer-text">
-        © 2024 Jam with AI
+        © 2025 Jam with AI
     </div>
     """,
     unsafe_allow_html=True,
