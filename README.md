@@ -4,7 +4,7 @@ Welcome to the **Local LLM-based Retrieval-Augmented Generation (RAG) System**! 
 
 ![Demo Image](images/chatbot.png)
 
-### 🌟 Key Features
+### 🌟 Key Features:
 - **Privacy-Friendly Document Search:** Search through personal documents without uploading them to the cloud.
 - **Hybrid Search with OpenSearch:** Uses both traditional text matching and semantic search.
 - **Easy Integration with LLMs**: Leverage local LLMs for personalized, context-aware responses.

@@ -104,7 +104,7 @@ def render_chatbot_page() -> None:
     st.sidebar.markdown(
         """
         <div class="footer-text">
-            © 2024 Jam with AI
+            © 2025 Jam with AI
         </div>
         """,
         unsafe_allow_html=True,
